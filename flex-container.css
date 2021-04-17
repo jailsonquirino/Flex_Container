@@ -1,0 +1,88 @@
+
+body{
+    background-color: #4c684c;
+    border-color: rgb(157, 157, 224);
+    border: 10px;
+    border: solid;
+}
+.container {
+    background-color: #233542;
+    width: 100%;
+    height:100%;
+    margin: 25px auto;
+    padding: 0.1em;
+    border-color: rgb(173, 182, 187); 
+    border: 2px;
+    border-style: solid;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.item {    
+    border: 2px solid;
+    border-color: rgb(122, 177, 199);    
+    margin: 0.5em;
+    width: 20%;
+}
+
+.item1 {
+    margin: 0.5em;
+    background-color: rgb(58, 87, 95);
+}
+.item2 {
+    margin: 0.5em;
+    background-color: rgb(188, 207, 214);
+}
+.item3 {
+    margin: 0.5em;
+    background-color:  rgb(188, 207, 214);
+}
+.item4 {
+    margin: 0.5em;
+    background-color: rgb(188, 207, 214);
+}
+#foto1 {
+    width: 100%;
+    height: 100%;
+    margin: 0.5em;
+}
+#foto2 {
+    width: 100%;
+    height: 100%;
+    margin: 0.5em;
+}
+#foto3 {
+    width: 100%;
+    height: 100%;
+    margin: 0.5em;
+}
+#foto4 {
+    width: 100%;
+    height: 100%;
+    margin: 0.5em;
+}
+#foto5 {
+    width: 100%;
+    height: 100%;
+    margin: 0.5em;
+}
+#foto6 {
+    width: 100%;
+    height: 100%;
+    margin: 0.5em;
+}
+#foto7 {
+    width: 100%;
+    height: 100%;
+    margin: 0.5em;
+}
+#foto8 {
+    width: 100%;
+    height: 100%;
+    margin: 0.5em;
+}
+
