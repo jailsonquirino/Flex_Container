@@ -1,0 +1,56 @@
+body {
+    background-color: #142743;
+}
+.container {
+    background-color: #055668;
+    height: 400px;     
+    margin: 25px auto;
+    border-color: rgb(144, 156, 180); 
+    border-style: solid;        
+    display: flex;      
+    justify-content: space-evenly;
+}
+
+.item {
+    background-color: aquamarine;
+    width: 100px;
+    height: 200px;
+}
+.um {    
+    align-self: flex-end;
+}
+.dois { 
+    align-self: flex-start;         
+}
+.tres {    
+    align-self: center;     
+}
+.container2 {
+    background-color: #055668;
+    height: 410px;    
+    margin: 25px auto;
+    border-color: rgb(168, 181, 206); 
+    border-style: solid;        
+    display: flex;     
+}
+.quatro {
+    border-color: red;
+    flex-grow: 2;    
+    margin: 1px;
+    border-style: solid;
+}    
+.cinco {
+    border-color: red;
+    flex-grow: 4;    
+    margin: 1px;
+    border-style: solid;    
+}
+.seis {
+    border-color: red;
+    flex-grow: 2;
+    margin: 1px;
+    border-style: solid;
+}
+
+   
+    
